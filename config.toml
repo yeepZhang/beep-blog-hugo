@@ -2,6 +2,11 @@ baseURL = "https://example.com"
 
 publishdir = "public"
 
+[taxonomies]
+  tag = "tags"
+  series = "series"
+  category = "categories"
+
 # theme
 # 主题
 theme = "LoveIt"
